@@ -170,3 +170,19 @@
 2021-06-29/15:23:49		Entered the load_model method of the File_Operation class
 2021-06-29/15:23:49		Model File KMeans loaded. Exited the load_model method of the Model_Finder class
 2021-06-29/15:23:49		Error occured while running the prediction!! Error:: 'KMeans' object has no attribute '_n_threads'
+2021-06-30/12:01:59		Start of Prediction
+2021-06-30/12:01:59		Entered the get_data method of the Data_Getter class
+2021-06-30/12:01:59		Data Load Successful.Exited the get_data method of the Data_Getter class
+2021-06-30/12:01:59		Entered the is_null_present method of the Preprocessor class
+2021-06-30/12:01:59		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2021-06-30/12:01:59		Entered the load_model method of the File_Operation class
+2021-06-30/12:01:59		Model File KMeans loaded. Exited the load_model method of the Model_Finder class
+2021-06-30/12:01:59		Error occured while running the prediction!! Error:: 'KMeans' object has no attribute '_n_threads'
+2021-06-30/12:03:24		Start of Prediction
+2021-06-30/12:03:24		Entered the get_data method of the Data_Getter class
+2021-06-30/12:03:24		Data Load Successful.Exited the get_data method of the Data_Getter class
+2021-06-30/12:03:24		Entered the is_null_present method of the Preprocessor class
+2021-06-30/12:03:24		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2021-06-30/12:03:24		Entered the load_model method of the File_Operation class
+2021-06-30/12:03:24		Model File KMeans loaded. Exited the load_model method of the Model_Finder class
+2021-06-30/12:03:24		Error occured while running the prediction!! Error:: 'KMeans' object has no attribute '_n_threads'
